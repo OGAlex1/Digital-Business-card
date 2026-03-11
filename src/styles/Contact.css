@@ -11,4 +11,19 @@
                   margin: 0.5rem;
                     text-decoration: none;
                       color: #0070f3;
+                      border: 2px solid transparent;
+                      transition: 0.3s all;
+                      padding:10px;
+                      font-weight: bold;
                       }
+               
+                       
+                    .contact a:hover{
+                      background-image: 
+    
+    linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899);
+
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+  color: white;
+                    }
