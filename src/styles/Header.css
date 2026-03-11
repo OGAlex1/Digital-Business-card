@@ -1,12 +1,14 @@
 .header {
-  background-color: #1a1a1a;
+  background: 
+    linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899);
   color: white;
   padding: 2rem 1rem;
   border-radius: 10px;
+ 
 }
 
 .profile-pic {
-  width: 200px;
+  width: 250px;
   border-radius: 50%;
   margin-bottom: 1rem;
 }
@@ -21,4 +23,8 @@
 li{
   list-style: none;
   padding:5px;
+  font-weight: bold;
 }
+
+
+

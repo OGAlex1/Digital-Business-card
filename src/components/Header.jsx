@@ -9,7 +9,7 @@ export default function Header() {
       <h1>Tobi .O. Alex</h1>
       
       <ul class="list" >
-        <li><p>Frontend Developer  | </p></li>
+        <li>Frontend Developer  |</li>
         <li>Graphic Designer  |</li>
         <li>Web3 Trader</li>
       </ul>
