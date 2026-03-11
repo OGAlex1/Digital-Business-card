@@ -8,4 +8,3 @@ function App() {
                               React.createElement(Footer)
                                 );
                                 }
-}
