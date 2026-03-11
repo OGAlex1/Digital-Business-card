@@ -12,3 +12,19 @@ body {
   margin: 0 auto;
   padding: 2rem;
 }
+
+
+@media (max-width: 320px) {
+    .app {
+        width: 90%;
+          }
+
+            h1 {
+                font-size: 20px;
+                  }
+
+                    p {
+                        font-size: 14px;
+                          }
+                          
+}
