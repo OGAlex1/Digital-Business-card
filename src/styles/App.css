@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.app {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+
+@media (max-width: 320px) {
+    .app {
+        width: 90%;
+          }
+
+            h1 {
+                font-size: 20px;
+                  }
+
+                    p {
+                        font-size: 14px;
+                          }
+                          
+}
