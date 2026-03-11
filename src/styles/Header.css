@@ -6,7 +6,19 @@
 }
 
 .profile-pic {
-  width: 120px;
+  width: 200px;
   border-radius: 50%;
   margin-bottom: 1rem;
+}
+
+.list{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+li{
+  list-style: none;
+  padding:5px;
 }
